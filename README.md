@@ -1,5 +1,5 @@
 ## Info
-**name |** `Shanik Makalande`
+**name |** `Shanik Makalande`  
 **e-mail |** `sh4nik@gmail.com`
 
 ---
