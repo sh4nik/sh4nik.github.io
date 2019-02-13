@@ -1,8 +1,6 @@
 ## Info
-###### Name
-`Shanik Makalande`
-###### Email:
-`sh4nik@gmail.com`
+###### **Name: ** `Shanik Makalande`
+###### **Email: ** `sh4nik@gmail.com`
 
 ## Projects
 
