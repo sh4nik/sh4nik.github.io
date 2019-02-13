@@ -1,9 +1,9 @@
 ## Info
-| ------------- |:----------------:|
-| Name          | Shanik Makalande |
-| Email         | sh4nik@gmail.com |
+**name |** `Shanik Makalande`
+**e-mail |** `sh4nik@gmail.com`
 
-------
+---
+
 ## Projects
 
 ### [BloopLabs](https://sh4nik.github.io/BloopLabs)
