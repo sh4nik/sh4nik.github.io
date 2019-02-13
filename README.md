@@ -1,7 +1,10 @@
-## Info
-**name |** `Shanik Makalande`  
-**e-mail |** `sh4nik@gmail.com`
-
+###### NAME
+`Shanik Makalande`
+  
+###### EMAIL
+`sh4nik@gmail.com`
+  
+  
 ---
 
 ## Projects
