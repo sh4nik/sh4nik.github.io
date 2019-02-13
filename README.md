@@ -1,1 +1,1 @@
-# sh4nik
+This project contains the web content for `sh4nik.github.io` which is the target for `sh4nik.com`
