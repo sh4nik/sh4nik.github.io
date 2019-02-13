@@ -1,13 +1,15 @@
 ## Info
-** Name: ** `Shanik Makalande`
-** Email: ** `sh4nik@gmail.com`
+###### Name
+`Shanik Makalande`
+###### Email:
+`sh4nik@gmail.com`
 
 ## Projects
 
-### [BloopLabs](/BloopLabs)
+### [BloopLabs](https://sh4nik.github.io/BloopLabs)
 > BloopLabs is an easy-to-use laboratory for evolving artificial neural networks by simulating virtual creatures in a controlled environment
 
-### [Pixatron](/Pixatron)
+### [Pixatron](https://sh4nik.github.io/Pixatron)
 > Pixatron is a Javascript library which can be used to display simple pixelated graphics and trigger transition effects on them
 
 ### [MetatronJS](https://virtusapolarisgto.github.io/MetatronJS)
