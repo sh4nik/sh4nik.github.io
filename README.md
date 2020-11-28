@@ -15,6 +15,9 @@
 ### [Pixatron](https://sh4nik.github.io/Pixatron)
 > Pixatron is a Javascript library which can be used to display simple pixelated graphics and trigger transition effects on them
 
+### [Chronos](https://sh4nik.github.io/chronos)
+> Visualize the positions and movements of the sun, moon and planets from a geo-centric point of view
+
 ### [MetatronJS](https://virtusapolarisgto.github.io/MetatronJS)
 > MetatronJS is a Javascript UI library that helps you create your own custom workflow designers
 
